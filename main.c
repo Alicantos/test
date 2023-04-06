@@ -13,6 +13,10 @@ int main(int argc, char **argv)
     gets(last); /* buffer overflow? what's that? */
 
     printf("Hello %s %s!\n", first, last);
+    printf("Dont read it stfu!!!!");
+    while(true){
+        printf("1000-7\n");
+    }
     return 0;
 }
 Т
